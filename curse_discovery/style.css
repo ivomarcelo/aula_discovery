@@ -1,0 +1,41 @@
+/*exemplo de CSS*/
+body {
+  background: #40365815;
+  color: rgba(6, 9, 12, 0.658);
+  font-family: sans-serif;
+}
+header {
+  border: 5px solid rgb(75, 49, 57);
+  padding: 60px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+/* Seção inicial */
+#filmes {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  padding: 24px 80px 128px 80px;
+  position: relative;
+}
+/* Seção Série */
+#Série {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  padding: 24px 80px 128px 80px;
+  position: relative;
+}
+h1 {
+  border: 5px solid rgb(146, 128, 128);
+ 
+}
+p {
+  border: 5px solid rgb(153, 9, 122);
+}
+ul {
+  border: 5px solid rgb(10, 87, 97);
+}
+p {
+  margin: 25px;
+  border: 10 5px rgb(47, 47, 105);
+}
