@@ -1,2 +1,0 @@
-# aula_discovery
- aprendendo
